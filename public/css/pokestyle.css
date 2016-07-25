@@ -52,18 +52,18 @@ a:hover {
 @keyframes pulse {
   0% {
     text-shadow: 4px 4px 3px rgba(255, 255, 255, .3);
-    background-color: rgba(255, 255, 255, .1);
+    background-color: rgba(0, 0, 0, .1);
   }
   25% {
     text-shadow: 4px 4px 3px rgba(255, 0, 0, .3);
-    background-color: rgba(255, 0, 0, .1);
+    background-color: rgba(0, 0, 255, .1);
   }
   50% {
     text-shadow: 4px 4px 3px rgba(55, 55, 55, .3);
-    background-color: rgba(55, 55, 55, .1);
+    background-color: rgba(255, 0, 0, .1);
   }
   75% {
-    text-shadow: 4px 4px 3px rgba(255, 255, 255, .3);
-    background-color: rgba(255, 255, 255, .1);
+    text-shadow: 4px 4px 3px rgba(255, 0, 0, .3);
+    background-color: rgba(0, 0, 0, .1);
   }
 }
