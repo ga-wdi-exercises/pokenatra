@@ -1,0 +1,1 @@
+class Pokemon < ActiveRecord::Base
