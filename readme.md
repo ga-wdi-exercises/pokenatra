@@ -10,6 +10,8 @@ Listed below are the various potential ERD's for this app in increasing difficul
 
 ![pokenatra_erd](pokenatra_erd.png)
 
+> WARNING: type is a reserved word in Active Record, make sure to use a different column name for pokemon type. Maybe call it `poke_type`. Any way that you do it, DO NOT use `type` as a column name
+
 ## Deliverables
 - Fully functional CRUD on a single model(Pokemon)
 
