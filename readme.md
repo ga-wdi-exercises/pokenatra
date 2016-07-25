@@ -21,3 +21,9 @@ Step 1. Write the app!
 - be able to CRUD Pokemon in a REPL
 - build a seed file so that you have data you can test your UI against
 - then build the UI
+
+## Resources for bonus
+- [Andy's Blogpost on many-to-many](http://andrewsunglaekim.github.io/many-actives-to-many-records/)
+- [Rails many-to-many lesson](https://github.com/ga-wdi-lessons/rails-many-to-many)
+
+> The latter resource is a Rails minilesson, it may be difficult to parse through the rails material to get what you need for many-to-many
