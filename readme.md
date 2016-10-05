@@ -17,7 +17,7 @@ Listed below are the various potential ERD's for this app in increasing difficul
 ## Recommendations
 
 - Build a seed file so that you have data you can test your UI against.
-- If you need help coming up with values for your Pokemon attributes, find inspiration in `sammple_data.rb`.
+- If you need help coming up with values for your Pokemon attributes, find inspiration in `sample_data.rb`.
 - Be able to CRUD a Pokemon in Pry before doing that through Sinatra.
 - Build the UI after the previous steps have been completed.
 
