@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Build at least a single model application using Sinatra that allows for the creating, reading, updating and deleting of a Pokemon.
+Build at least a single model application using Sinatra that allows for the creating, reading, updating and deleting of Pokemon.
 
 Listed below are the various potential ERD's for this app in increasing difficulty. **Do not attempt to code an ERD unless you have already finished coding the domains before it** (i.e., "I can only do silver if I've finished the MVP"). Remember, a polished MVP is better than a non functioning silver.
 
@@ -16,9 +16,9 @@ Listed below are the various potential ERD's for this app in increasing difficul
 
 ## Recommendations
 
-- Start small. Get your data working first.
-- Be able to CRUD a Pokemon in Pry before doing that through Sinatra.
 - Build a seed file so that you have data you can test your UI against.
+- If you need help coming up with values for your Pokemon attributes, find inspiration in `sammple_data.rb`.
+- Be able to CRUD a Pokemon in Pry before doing that through Sinatra.
 - Build the UI after the previous steps have been completed.
 
 ## Resources for Bonus
