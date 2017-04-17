@@ -1,4 +1,4 @@
 ActiveRecord::Base.establish_connection(
   :adapter => 'postgresql',
-  :database => 'pokemon_db'
+  :database => 'pokenatra_db'
 )
