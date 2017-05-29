@@ -22,4 +22,4 @@ Listed below are the various potential ERDs for this app in increasing difficult
 - [Andy Kim's blog post on many-to-many relationships](http://andrewsunglaekim.github.io/many-actives-to-many-records/)
 - [Rails many-to-many lesson](https://github.com/ga-wdi-lessons/rails-many-to-many)
 
-> We will go over the latter resource in class next week.
+> We will go over many-to-many relationships in detail next week.
