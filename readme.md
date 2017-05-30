@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Build an at-minimum single-model Sinatra application that allows for the creating, reading, updating and deleting of Pokemon.
+At minimum, build a single-model Sinatra application that allows for the creating, reading, updating and deleting of Pokemon.
 
 Listed below are the various potential ERDs for this app in increasing difficulty. **Do not attempt to code an ERD unless you have already finished coding the domains before it** (i.e., "I can only do Silver if I've finished the MVP"). Remember, a polished MVP is better than a non-functional Silver.
 
